@@ -5,7 +5,7 @@
 // 本项目基于 https://github.com/jikssha/telegram_private_chatbot 修改
 // 在此对原项目作者 Vaghr (Github@jikssha) ，以及我的好兄弟 打钱 表示特别感谢！
 
-// Copyright (c) 2026 Frost
+// Copyright (c) 2026 Darkstar
 // Released under the MIT License. See LICENSE in the project root.
 
 const BOT_VERSION = "v1.6.2";
