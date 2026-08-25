@@ -14,7 +14,6 @@
 在此对原项目作者 [Vaghr](https://github.com/jikssha) 以及我的好兄弟 打钱 表示特别感谢！
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/mole404/NextGenForward?tab=MIT-1-ov-file)
-[![Telegram](https://img.shields.io/badge/Telegram-DM-blue?style=social&logo=telegram)](https://t.me/Arona_Chat_Bot) 
 
 <details>
 
